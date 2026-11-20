@@ -16,7 +16,7 @@ const projects = [
         description: "A hotel website displaying the services offered, and visitors can book rooms or tables or book for an event.",
         image: "/project2.png",
         tags: ["html", "CSS", "JavaScript"],
-        link: "#",
+        link: "markbenhotel.vercel.app",
         github: "https://github.com/emmanuelmvuko/Markben-Hotel",
     },
 
@@ -25,7 +25,7 @@ const projects = [
         description: "A weather web app where one can enter city name and find details of the weather in that city.",
         image: "/project3.png",
         tags: ["html", "CSS", "JavaScript"],
-        link: "#",
+        link: "weather-app-psi-five-29.vercel.app",
         github: "https://github.com/emmanuelmvuko/Weather-app",
     },
 
